@@ -8,3 +8,5 @@ NextGen Resume is a modern and intuitive resume builder designed to help job see
 - ✅ **Pre-Filled Content Suggestions** – Get AI-powered resume content tailored to your needs.  
 - ✅ **Fully Responsive** – Works on all devices for a smooth experience.  
 - ✅ **Fast and Secure** – Optimized for performance and security.  
+
+## 🔗 https://github.com/Pranjalpatel/NextGen-resume.git
